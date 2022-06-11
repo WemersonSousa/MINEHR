@@ -1,3 +1,3 @@
 # MINEHR
 
-Repositório criado para o Teste técnico - Eng. de Dados, da empresa MINEHR.
+Repositório criado para o upload do Teste técnico - Eng. de Dados, da empresa MINEHR.
